@@ -34,7 +34,7 @@ Take the M1 line (yellow) towards 4 Cantons Grand Stade and get off at the last 
 From there, you can either walk east for about 15 minutes through the university campus or take the bus.
 If you choose to take the bus, take lines 66 or 72 and get off at Verger or Haley.
 
-## Programme (en cours de construction)
+## Program (under development)
 
 | Time | Title | Author(s) |
 | --- | --- | --- |
