@@ -1,14 +1,14 @@
-+++
-title = 'DevX Working Meeting - Dec. 4th, 2024'
-date = 2024-11-20T11:31:29+01:00
-draft = false
-+++
+---
+title: "DevX Collective Brainstorm: December 4, 2024"
+date: 2024-11-20
+language: en
+---
+
+# DevX Collective Brainstorm: December 4, 2024
 
 The Debugging Workgroup of the GDR GPL will soon evolve towards the topic of the Developer Experience (DevX), whether the developer is a software engineer, a scientist, a business expert, etc..  In this context, we are organizing a one-day workshop to identify the French community on this topic and to define the scientific scope of this future new WG. 
 
-<!--more-->
-
-# Directions
+## Directions
 
 **Address:**   
 
@@ -30,7 +30,7 @@ You can get there from the city center or the train-station by :
 - **Bus:** line C4 direction ZA Saint-Sulpice or line C6 direction Cesson Sévigné/Chantepie.
   Get off at "Tournebride" and walk north for about 5 minutes.
 
-# Program
+## Program
 
 | Time | Title | Author(s) |
 | --- | --- | --- |
