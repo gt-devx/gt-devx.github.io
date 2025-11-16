@@ -8,9 +8,9 @@
       <a href="/fr/posts">Posts</a>
     {% endif %}
     {% if language == "fr" %}
-      <a href="/en/{{ page.fileSlug }}"><span>FR</span> | EN</a>
+      <a href="/en/{% if page.fileSlug != "fr" %}{{ page.fileSlug }}{% endif %}"><span>FR</span> | EN</a>
     {% else %}
-      <a href="/fr/{{ page.fileSlug }}">FR | <span>EN</span></a>
+      <a href="/{% if page.fileSlug != "en" %}fr/{{ page.fileSlug }}{% endif %}">FR | <span>EN</span></a>
     {% endif %}
   </nav>
 </header>

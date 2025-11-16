@@ -4,6 +4,8 @@ date: 2025-11-11
 language: en
 ---
 
+# DevX Annual Meeting: December 15, 2025
+
 The DevX Workgroup meeting will take place in Lille this year.
 The meeting has three objectives:  
 1. Integrating newcomers to the community and learning about their DevX issues.  
