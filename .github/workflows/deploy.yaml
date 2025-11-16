@@ -33,13 +33,15 @@ jobs:
     env:
       HUGO_VERSION: 0.128.0
     steps:
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+        run: npm ci
+
       - name: Build website
         run: npm run build          
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
