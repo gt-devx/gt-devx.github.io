@@ -1,0 +1,5 @@
+{
+  "layout": "templates/base.liquid",
+  "permalink": "/en/{{ page.fileSlug }}/",
+  "tags": ["en-posts"]
+}

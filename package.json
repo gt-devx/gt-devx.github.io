@@ -1,0 +1,24 @@
+{
+  "name": "gt-devx.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gt-devx/gt-devx.github.io.git"
+  },
+  "keywords": [],
+  "author": "Valentin Bourcier, Benoît Combemale, Steven Costiou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gt-devx/gt-devx.github.io/issues"
+  },
+  "homepage": "https://github.com/gt-devx/gt-devx.github.io#readme",
+  "description": "DevX Workgroup website",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

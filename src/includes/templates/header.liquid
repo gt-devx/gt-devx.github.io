@@ -1,0 +1,16 @@
+<header>
+  <h1>DevX Workgroup</h1>
+  <nav>
+    <a href="/">Home</a>
+    {% if language == "en" %}
+      <a href="/en/posts">Posts</a>
+    {% else %}
+      <a href="/fr/posts">Posts</a>
+    {% endif %}
+    {% if language == "fr" %}
+      <a href="/en/{{ page.fileSlug }}"><span>FR</span> | EN</a>
+    {% else %}
+      <a href="/fr/{{ page.fileSlug }}">FR | <span>EN</span></a>
+    {% endif %}
+  </nav>
+</header>

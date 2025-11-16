@@ -1,0 +1,19 @@
+---
+layout: templates/base.liquid
+---
+
+{{ content }}
+
+<section>
+
+{% if language == "en" %}
+  {% for post in collections.en-posts reversed limit: posts-limit %}
+    {% include templates/publication.liquid %}
+  {% endfor %}
+{% else %}
+  {% for post in collections.fr-posts reversed limit: posts-limit %}
+    {% include templates/publication.liquid %}
+  {% endfor %}
+{% endif %}
+</section>
+
