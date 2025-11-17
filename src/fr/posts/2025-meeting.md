@@ -37,18 +37,16 @@ Si vous choisissez de prendre le bus, prenez les lignes 66 ou 72 et descendez à
 
 | Time | Title | Author(s) |
 | --- | --- | --- |
-| **10:30** | **Café de bienvenue** | |
-| 10:45 | Towards a Science of Developer eXperience (DevX): A Call for Action | Benoît Combemale |
-| 11:00 | DevX à Berger-Levrault: discussions autours des particularités à étudier l’expérience de développement logiciel dans un groupe d’entreprises.| Nicolas Hlad |
-| **11:25** | **Pause café** | |
-| 11:35 | Comment une entreprise perçoit l'étude de l'impact de la dette technique sur la santé mentale des développeurs ? Réception de mon sujet de thèse chez Stelogy | Anna Cathelineau |
-| **12:00** | **Pause déjeuner** | |
-| 13:30 | Compréhension des descripteurs d'infrastructures via des diagrammes d'architecture | Philippe Merle |
-| 14:55 | Les besoins d'UX design dans les équipes de recherche en génie logiciel | Clothilde Toulec |
-| 14:10 | Titre à venir | Rémi Dufloer |
-| 14:20 | Démonstration de XTDD | Stéphane Ducasse |
-| **14:30** | **Pause café** | |
-| 14:40 | Open session for discussing, brainstorming | |
-| **17:10** | **Conclusion de la journée** | |
-
-
+| **10:00** | **Café de bienvenue** | |
+| 10:30 | Ouverture de la journée | Steven Costiou |
+| 10:35 | Towards a Science of Developer eXperience (DevX): A Call for Action | Benoît Combemale |
+| 10:45 | Les besoins d'UX design dans les équipes de recherche en génie logiciel | Clotilde Toulec |
+| 10:55 | How do developers proceed and what are their needs in terms of differential debugging? | Rémi Dufloer |
+| 11:05 | Session de discussion, brainstorming | |
+| **12:30** | **Pause déjeuner** | |
+| 14:00 | Compréhension des descripteurs d'infrastructures via des diagrammes d'architecture | Philippe Merle |
+| 14:25 | Démonstration de XTDD | Stéphane Ducasse |
+| 14:40 | Comment une entreprise perçoit l'étude de l'impact de la dette technique sur la santé mentale des développeurs ? Réception de mon sujet de thèse chez Stelogy | Anna Cathelineau |
+| 15:05 | DevX à Berger-Levrault: discussions autours des particularités à étudier l’expérience de développement logiciel dans un groupe d’entreprises.| Nicolas Hlad |
+| 15:30 | Session de discussion, brainstorming | |
+| **17:00** | **Conclusion** | |
