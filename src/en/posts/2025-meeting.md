@@ -51,5 +51,5 @@ If you choose to take the bus, take lines 66 or 72 and get off at Verger or Hale
 | 14:40 | Comment une entreprise perçoit l'étude de l'impact de la dette technique sur la santé mentale des développeurs ? Réception de mon sujet de thèse chez Stelogy | Anna Cathelineau |
 | 15:05 | DevX à Berger-Levrault: discussions autours des particularités à étudier l’expérience de développement logiciel dans un groupe d’entreprises.| Nicolas Hlad |
 | 15:30 | Discussion and brainstorming session | |
-| **17:00** | **Cconclusion** | |
+| **17:00** | **Conclusion** | |
 

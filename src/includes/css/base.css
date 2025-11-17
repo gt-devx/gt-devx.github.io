@@ -118,6 +118,9 @@ table {
     border-collapse: collapse;
 
     border-bottom: 1px solid lightgray;
+
+    display: block;
+    overflow-x: auto;
 }
 
 table th {
@@ -166,6 +169,7 @@ table th:last-child {
 @media only screen and (max-width: 560px) {
     header { 
         height: 90px;
+        min-width: 400px;
         flex-direction: column;
         justify-content: space-around;
     }
@@ -185,5 +189,6 @@ table th:last-child {
 
     footer > p {
         margin: 0px;
+        text-align: center;
     }
 }
