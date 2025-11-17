@@ -9,8 +9,8 @@ language: fr
 Cette année, la réunion du groupe de travail DevX aura lieu à Lille.
 Les objectifs de cette réunion sont triples :  
 1. Intégrer les nouveaux membres de la communauté et en savoir plus sur leurs problèmes liés au DevX.
-2. Poursuivre la discussion sur les aspects prospectifs du groupe de travail.  
-3. Discuter des projets et collaborations potentiels.  
+2. Poursuivre les discussions sur les aspects prospectifs du groupe de travail.  
+3. Discuter de potentiels projets et collaborations.  
 
 ## Directions
 
