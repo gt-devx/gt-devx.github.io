@@ -35,7 +35,7 @@ Si vous choisissez de prendre le bus, prenez les lignes 66 ou 72 et descendez à
 
 ## Programme (en cours de construction)
 
-| Time | Title | Author(s) |
+| Horaire | Titre | Auteur·rice(s) |
 | --- | --- | --- |
 | **10:00** | **Café de bienvenue** | |
 | 10:30 | Ouverture de la journée | Steven Costiou |
