@@ -33,7 +33,9 @@ Prenez la ligne M1 (jaune) en direction de 4 Cantons Grand Stade et descendez au
 De là, vous pouvez soit marcher vers l'est pendant environ 15 minutes à travers le campus universitaire, soit prendre le bus. 
 Si vous choisissez de prendre le bus, prenez les lignes 66 ou 72 et descendez à Verger ou Haley.
 
+
 ## Programme (en cours de construction)
+<span style:="display:none;" id="programme"></span>
 
 | Horaire | Titre | Auteur·rice(s) |
 | --- | --- | --- |

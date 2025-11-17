@@ -35,6 +35,7 @@ From there, you can either walk east for about 15 minutes through the university
 If you choose to take the bus, take lines 66 or 72 and get off at Verger or Haley.
 
 ## Program (under development)
+<span style:="display:none;" id="program"></span>
 
 | Time | Title | Author(s) |
 | --- | --- | --- |
