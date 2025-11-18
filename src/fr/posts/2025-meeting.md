@@ -42,7 +42,7 @@ Si vous choisissez de prendre le bus, prenez les lignes 66 ou 72 et descendez à
 | **10:00** | **Café de bienvenue** | |
 | 10:30 | Ouverture de la journée | Steven Costiou |
 | 10:35 | Towards a Science of Developer eXperience (DevX): A Call for Action | Benoît Combemale |
-| 10:45 | Les besoins d'UX design dans les équipes de recherche en génie logiciel | Clotilde Toulec |
+| 10:45 | Les besoins d'UX design dans les équipes de recherche en génie logiciel | Clotilde Toullec |
 | 10:55 | How do developers proceed and what are their needs in terms of differential debugging? | Rémi Dufloer |
 | 11:05 | Session de discussion, brainstorming | |
 | **12:30** | **Pause déjeuner** | |
