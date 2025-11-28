@@ -47,7 +47,7 @@ If you choose to take the bus, take lines 66 or 72 and get off at Verger or Hale
 | 11:05 | Discussion and brainstorming session | |
 | **12:30** | **Lunch break** | |
 | 14:00 | Compréhension des descripteurs d'infrastructures via des diagrammes d'architecture | Philippe Merle |
-| 14:25 | Démonstration de XTDD | Stéphane Ducasse |
+| 14:25 | Showcasing eXtreme Test-Driven Development, XTDD | Stéphane Ducasse |
 | 14:40 | Comment une entreprise perçoit l'étude de l'impact de la dette technique sur la santé mentale des développeurs ? Réception de mon sujet de thèse chez Stelogy | Anna Cathelineau |
 | 15:05 | DevX à Berger-Levrault: discussions autours des particularités à étudier l’expérience de développement logiciel dans un groupe d’entreprises.| Nicolas Hlad |
 | 15:30 | Discussion and brainstorming session | |
