@@ -44,7 +44,8 @@ Si vous choisissez de prendre le bus, prenez les lignes 66 ou 72 et descendez à
 | 10:35 | Towards a Science of Developer eXperience (DevX): A Call for Action | Benoît Combemale |
 | 10:45 | Les besoins d'UX design dans les équipes de recherche en génie logiciel | Clotilde Toullec |
 | 10:55 | How do developers proceed and what are their needs in terms of differential debugging? | Rémi Dufloer |
-| 11:05 | Session de discussion, brainstorming | |
+| 11:05 | Une bibliothèque d'optimisation avec interface en LaTeX | Jean-Armand Moroni |
+| 11:30 | Session de discussion, brainstorming | |
 | **12:30** | **Pause déjeuner** | |
 | 14:00 | Compréhension des descripteurs d'infrastructures via des diagrammes d'architecture | Philippe Merle |
 | 14:25 | Démonstration d'eXtreme Test-Driven Development, XTDD | Stéphane Ducasse |
