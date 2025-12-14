@@ -26,6 +26,7 @@ Show on [Google Maps](https://maps.app.goo.gl/1FhnFof4rXMhnLkE6) or on [OpenStre
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d316.52039212227817!2d3.1480512!3d50.6055061!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2d7a6043ecab3%3A0xdd455e8725d08197!2sCentre%20Inria%20de%20l&#39;Universit%C3%A9%20de%20Lille!5e0!3m2!1sfr!2sfr!4v1763125788236!5m2!1sfr!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+The room in which the session will take place (plénière) will be indicated by signs placed from the reception.
 
 **Public transport:**
 
@@ -34,7 +35,7 @@ Take the M1 line (yellow) towards 4 Cantons Grand Stade and get off at the last 
 From there, you can either walk east for about 15 minutes through the university campus or take the bus.
 If you choose to take the bus, take lines 66 or 72 and get off at Verger or Haley.
 
-## Program (under development)
+## Program
 <span style:="display:none;" id="program"></span>
 
 | Time | Title | Author(s) |
@@ -53,4 +54,3 @@ If you choose to take the bus, take lines 66 or 72 and get off at Verger or Hale
 | 15:05 | DevX à Berger-Levrault: discussions autours des particularités à étudier l’expérience de développement logiciel dans un groupe d’entreprises.| Nicolas Hlad |
 | 15:30 | Discussion and brainstorming session | |
 | **17:00** | **Conclusion** | |
-

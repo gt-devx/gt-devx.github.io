@@ -25,6 +25,7 @@ Voir sur [Google Maps](https://maps.app.goo.gl/1FhnFof4rXMhnLkE6) ou sur [OpenSt
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d316.52039212227817!2d3.1480512!3d50.6055061!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2d7a6043ecab3%3A0xdd455e8725d08197!2sCentre%20Inria%20de%20l&#39;Universit%C3%A9%20de%20Lille!5e0!3m2!1sfr!2sfr!4v1763125788236!5m2!1sfr!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+La salle dans laquelle aura lieu la journée (plénière) sera indiquée par des panneaux disposés depuis l'accueil.
 
 **Public transport:**
 
@@ -34,7 +35,7 @@ De là, vous pouvez soit marcher vers l'est pendant environ 15 minutes à traver
 Si vous choisissez de prendre le bus, prenez les lignes 66 ou 72 et descendez à Verger ou Haley.
 
 
-## Programme (en cours de construction)
+## Programme
 <span style:="display:none;" id="programme"></span>
 
 | Horaire | Titre | Auteur·rice(s) |
