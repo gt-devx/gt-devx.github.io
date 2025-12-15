@@ -53,3 +53,6 @@ Si vous choisissez de prendre le bus, prenez les lignes 66 ou 72 et descendez à
 | 14:50 | DevX à Berger-Levrault: discussions autours des particularités à étudier l’expérience de développement logiciel dans un groupe d’entreprises.| Nicolas Hlad |
 | 15:15 | Session de discussion, brainstorming | |
 | **17:00** | **Conclusion** | |
+
+Notes de discussions partagées: [Notes de discussions](https://notes.inria.fr/sqcnb0jITbmKTNWB49KY1Q)
+
