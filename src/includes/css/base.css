@@ -114,12 +114,13 @@ footer > img {
 }
 
 table {
+    width: 100%;
     border:none;
     border-collapse: collapse;
 
     border-bottom: 1px solid lightgray;
 
-    display: block;
+    display: table;
     overflow-x: auto;
 }
 
@@ -133,6 +134,8 @@ table td, th {
 
     border-left: 1px solid lightgray;
     border-right: 1px solid lightgray;
+
+    word-wrap: break-word;
 }
 
 /* table td:first-child {
