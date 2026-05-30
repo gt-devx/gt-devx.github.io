@@ -16,6 +16,8 @@ Through these discussions, our objective remains the same as for previous events
 
 ## Program
 
+**Tuesday, June 2, 2026 — Polytech Lille — Room 2**
+
 | Time | Title | Authors |
 | --- | --- | --- |
 | 11:00 | Opening and presentation of the session program | Valentin Bourcier |
@@ -26,7 +28,7 @@ Through these discussions, our objective remains the same as for previous events
 
 ## Questions and themes addressed at previous events
 
-### December 15, 2025
+### December 15th, 2025
 
 Topics covered:
 - Discoverability/Usability
@@ -40,7 +42,7 @@ Questions raised:
 - What approach can be used to quantify the psychological impact?
 - How can we reconcile the needs of businesses with the experience of developers (reciprocity)?
 
-### Au 4 décembre 2024
+### December 4th, 2024
 
 The objective was to define the conceptual framework of the DevX (Developer Experience) working group.  
 The discussion went beyond the notion of technical tools to encompass the overall human experience in the software development process.  

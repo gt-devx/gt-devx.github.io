@@ -16,6 +16,8 @@ Au travers ces discussions, notre objectif reste le même que pour les événeme
 
 ## Programme
 
+**Mardi 2 juin 2026 - Polytech Lille - Salle 2**
+
 | Horaire | Titre | Auteur·rice(s) |
 | --- | --- | --- |
 | 11:00 | Ouverture et présentation du programme de la session | Valentin Bourcier |
